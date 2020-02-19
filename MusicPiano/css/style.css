@@ -636,6 +636,7 @@ transition: 0.5s;
 		position: relative;
 		margin: - auto;
 		max-width: 626px;
+		margin-left: 133px;
 	}
 	.inner__reg-application {
 		padding: 20px 120px 20px 120px;
